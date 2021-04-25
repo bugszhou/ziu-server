@@ -1,0 +1,19 @@
+{
+  "name": "ziu-server",
+  "version": "1.0.0",
+  "description": "启动模板",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/ziu-server.git"
+  },
+  "author": "bugszhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/ziu-server/issues"
+  },
+  "homepage": "https://github.com/bugszhou/ziu-server#readme"
+}
