@@ -39,7 +39,7 @@
     "mini-entry": "0.1.3",
     "mini-js-loader": "^1.2.4",
     "mini-json-loader": "^2.0.1",
-    "mini-program-require-webpack-plugin": "0.0.3",
+    "mini-program-require-webpack-plugin": "0.0.4",
     "mini-xml-loader": "^1.4.6",
     "minimist": "^1.2.5",
     "node-builtin-polyfill-webpack-plugin": "0.0.2",
