@@ -1,6 +1,6 @@
 {
   "name": "ziu-server",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "启动模板",
   "main": "lib/index.js",
   "bin": {
