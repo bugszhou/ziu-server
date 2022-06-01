@@ -38,7 +38,7 @@
     "lodash.merge": "^4.6.2",
     "mini-css-extract-plugin": "^1.5.0",
     "mini-entry": "0.2.4",
-    "mini-js-loader": "^1.2.5",
+    "mini-js-loader": "^1.2.6",
     "mini-json-loader": "^2.0.1",
     "mini-program-global-runtime-webpack-plugin": "0.0.8",
     "mini-program-require-webpack-plugin": "0.0.6",
