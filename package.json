@@ -26,6 +26,7 @@
     "@babel/preset-env": "^7.13.15",
     "@soda/friendly-errors-webpack-plugin": "^1.8.0",
     "babel-loader": "^8.2.2",
+    "babel-plugin-log-beautify": "0.0.1",
     "babel-preset-minify": "^0.5.1",
     "copy-webpack-plugin": "^8.1.1",
     "cp-file": "^9.0.0",
