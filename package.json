@@ -44,7 +44,7 @@
     "mini-entry": "0.4.0",
     "mini-js-loader": "^1.2.8",
     "mini-json-loader": "^2.1.0",
-    "mini-program-global-runtime-webpack-plugin": "0.2.1",
+    "mini-program-global-runtime-webpack-plugin": "0.2.2",
     "mini-program-global-webpack-plugin": "0.0.5",
     "mini-program-require-webpack-plugin": "0.0.6",
     "mini-xml-loader": "^1.5.2",
