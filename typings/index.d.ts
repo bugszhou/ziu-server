@@ -6,6 +6,7 @@ declare namespace IZiuServer {
       resolveModules?: ResolveOptions["modules"];
       resolveAlias?: ResolveOptions["alias"];
       resolveMainFields?: ResolveOptions["mainFields"];
+      outputChunkLoadingGlobal: string;
     };
     [key: string]: any;
   }
