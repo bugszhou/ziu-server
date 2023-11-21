@@ -1,4 +1,4 @@
-import { ResolveOptions } from "webpack";
+import { ResolveOptions, Optimization } from "webpack";
 
 declare namespace IZiuServer {
   interface IConfig {
@@ -6,7 +6,8 @@ declare namespace IZiuServer {
       resolveModules?: ResolveOptions["modules"];
       resolveAlias?: ResolveOptions["alias"];
       resolveMainFields?: ResolveOptions["mainFields"];
-      outputChunkLoadingGlobal: string;
+      outputChunkLoadingGlobal?: string;
+      optimization?: Optimization;
     };
     [key: string]: any;
   }
