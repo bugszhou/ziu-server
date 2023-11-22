@@ -9,6 +9,7 @@ declare namespace IZiuServer {
       outputChunkLoadingGlobal?: string;
       optimization?: Optimization;
     };
+    splitNodeModules?: boolean;
     [key: string]: any;
   }
 }
